@@ -1,0 +1,6 @@
+{
+  "name": "Songs of Zion",
+  "description": "Offline bilingual English & Tamil hymnbook with full-text lyric search, hymn number index, translation switcher, worship setlists, and JSON database import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

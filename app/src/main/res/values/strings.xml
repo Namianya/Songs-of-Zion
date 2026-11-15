@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Songs of Zion</string>
+    <string name="subtitle_offline_hymnal">Offline Bilingual Hymnal</string>
+    <string name="nav_hymns">Hymns</string>
+    <string name="nav_setlists">Setlists</string>
+    <string name="nav_library">Library</string>
+    <string name="search_hymns_placeholder">Search title, #number, category, or lyrics…</string>
+    <string name="jump_to_number">Jump to #</string>
+    <string name="offline_ready_badge">Offline Ready</string>
+    <string name="no_hymns_found">No hymns match your search</string>
+    <string name="no_hymns_hint">Try a hymn number, English or Tamil lyric word, or clear your category filter.</string>
+    <string name="favorite_add">Add to favorites</string>
+    <string name="favorite_remove">Remove from favorites</string>
+    <string name="reader_settings">Reading &amp; Theme</string>
+    <string name="import_json_button">Import Hymn Database (JSON)</string>
+    <string name="export_template_button">Save Sample JSON Template</string>
+    <string name="lang_english">English</string>
+    <string name="lang_tamil">தமிழ்</string>
+    <string name="translating_tamil">Translating hymn to தமிழ் and saving offline…</string>
+    <string name="translate_to_tamil">Translate to தமிழ்</string>
+    <string name="retry_translation">Retry Translation</string>
+</resources>
